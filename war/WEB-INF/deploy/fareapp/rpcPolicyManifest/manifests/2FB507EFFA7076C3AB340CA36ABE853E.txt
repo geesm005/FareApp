@@ -1,0 +1,2 @@
+serviceClass: fareApp.client.GreetingService
+path: 4C6164A64702CB662399093A323CF83F.gwt.rpc
